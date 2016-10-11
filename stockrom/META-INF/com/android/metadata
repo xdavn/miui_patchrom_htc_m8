@@ -1,0 +1,3 @@
+post-build=htc/m8_google/htc_m8:6.0/MRA58K.H15/666676:user/release-keys
+post-timestamp=1469006456
+pre-device=htc_m8
